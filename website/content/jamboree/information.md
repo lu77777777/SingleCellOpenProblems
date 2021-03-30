@@ -73,7 +73,7 @@ Start (PT) | Stop (PT) | Start (GMT+1) | Stop (GMT+1) | Activity
 12:30pm | 13:00pm | 9:30pm | 10:00pm | Regroup, relax for 30 minutes
 
 ### Day 3
-Start (PT) | Stop (PT) | Start (GMT+1) | Stop (GMT+1) | Activity
+Start (PT) | Stop (PT) | Start (GMT+**2**) | Stop (GMT+**2**) | Activity
 -- | -- | -- | -- | -- |
 😴 | 😴 | 2:00pm | 2:15pm | Welcome, introduce the day for Europe / Africa
 😴 | 😴 | 2:15pm | 3:45pm | Break out into groups
