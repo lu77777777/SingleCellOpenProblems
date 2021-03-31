@@ -9241,5 +9241,8 @@ a {
   color: #404040;
   font-weight: bold; }
 
+.nav-link:hover {
+  color: #ff414b; }
+
 span {
   font-family: 'hk_groteskmedium', Fallback, sans-serif; }

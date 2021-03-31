@@ -18,12 +18,13 @@
   url = "/jamboree"
   weight = 30
 
-[[main]]
-  name = "Contributing"
-  url = "/contributing"
-  weight = 40
 
 [[main]]
   name = "Code"
   url = "https://github.com/singlecellopenproblems/SingleCellOpenProblems"
   weight = 100
+
+[[main]]
+  name = "Join our mailing list"
+  url = "https://forms.gle/ieFULyq7N27KZn2S8"
+  weight = 200
